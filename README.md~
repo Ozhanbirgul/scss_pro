@@ -1,0 +1,12 @@
+<h1> SCSS Projesi </h1>
+
+Bu proje, SCSS kullanarak bir web sitesi için stil oluşturmak için kullanılan bir örnektir.
+Bootstraptan iconlar alındı.
+
+<h2> Kullanılan Teknolojiler </h2>
+
+-HTML
+-SCSS
+
+<h2> Ekran Görüntüsü </h2>
+![](ekran.gif)
